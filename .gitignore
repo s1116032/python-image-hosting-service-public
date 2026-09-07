@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom project ignores
+*.db
+fake_image.png
+valid.png
